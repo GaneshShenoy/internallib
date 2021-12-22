@@ -9,4 +9,6 @@ int multiplyNum(int a, int b) {
     #else
     std::cout << "Greet debug!" <<std::endl;
     #endif
+	
+	return a*b;
 }
