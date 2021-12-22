@@ -6,4 +6,4 @@
   #define CALCULATOR_EXPORT  
 #endif
 
-CALCULATOR_EXPORT void addNumber(int a, int b);
+CALCULATOR_EXPORT int addNumber(int a, int b);
