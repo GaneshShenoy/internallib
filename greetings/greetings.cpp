@@ -9,6 +9,4 @@ void greetHim() {
     #else
     std::cout << "Greet debug!" <<std::endl;
     #endif
-	
-	return a + b;
 }
